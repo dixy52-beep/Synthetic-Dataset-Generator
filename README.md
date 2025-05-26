@@ -9,7 +9,7 @@ This tool leverages the power of Gemini AI to generate datasets tailored to your
 ## Features
 
 *   **AI-Powered Data Generation:** Utilizes Gemini AI for flexible and context-aware data synthesis.
-*   **Structured Output:** Creates datasets in a structured format (e.g., CSV, JSON Lines - *specify if known, otherwise keep general*).
+*   **Structured Output:** Creates datasets in a structured format (CSV, JSON Lines).
 *   **Hugging Face Integration:** Automatically uploads the generated dataset to your Hugging Face account.
 *   **Customizable Prompts:** Define the dataset's goal, initial structure/examples, and further context through a simple prompt format.
 *   **User-Friendly:** Designed for ease of use within Google AI Studio.
