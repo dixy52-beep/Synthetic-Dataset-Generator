@@ -111,10 +111,6 @@ The prompt is structured into three parts, separated by a `/` (forward slash):
 *   **Incorrect Output Format:** Refine your prompt, especially the "Column Definitions or First Set of Examples" part, to be more specific about the desired structure.
 *   **Low-Quality Data:** Experiment with the "Further Context" part of your prompt to provide clearer instructions and constraints to Gemini AI. Breaking down complex requests into simpler parts in the prompt can also help.
 
-## Contributing
-
-*(Optional: Add guidelines if you want others to contribute. For example: "Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.")*
-
 ## License
 
 MIT ATTRIBUTION REQUIRED (Davide Brunori 2025)
